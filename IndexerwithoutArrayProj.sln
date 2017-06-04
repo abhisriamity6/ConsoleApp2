@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{FF4775CD-76FB-4F6A-8752-348F2E01B0B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexerwithoutArray", "ConsoleApp2\IndexerwithoutArray.csproj", "{FF4775CD-76FB-4F6A-8752-348F2E01B0B0}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{A3C7AEA1-6780-44CD-AA49-BBA346A3803E}"
 EndProject
